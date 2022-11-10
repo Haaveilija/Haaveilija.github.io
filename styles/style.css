@@ -1,0 +1,28 @@
+.flex_parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex_child {
+    flex: 1 1 150px;
+    padding: 20px;
+}
+
+.flex_child img {
+    width: 250px;
+}
+
+p {
+    background-color: #eee;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: #eee;
+}

@@ -17,6 +17,10 @@ p {
     padding: 10px;
 }
 
+#clock {
+    padding: 5px;
+}
+
 table {
     border-collapse: collapse;
 }
